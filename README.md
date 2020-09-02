@@ -15,6 +15,7 @@ I created a few POCs of documentation at work, and that's a lot of written conte
 1. [Wanted: your best practices for working with distributed teams](ama/2020-06-15-for-distributed-teams.md)
 1. [How to extract the test cases and steps from ALM?](ama/2020-06-30-extract-alm-test-cases.md)
 1. [How to manage extra capacity in the sprint to start, but not finish, additional user stories?](ama/2020-06-30-work-ahead-in-sprint.md)
+1. [LF: Rules of thumb on stories to complete](ama/2020-09-02-stories-rule-of-thumb.md)
 
 ### Lessons Learned
 
@@ -23,3 +24,5 @@ I created a few POCs of documentation at work, and that's a lot of written conte
 1. [Documentation using Jekyll](lessons/jekyll_documentation.md)
 1. [Keycloak to simulate official Identity Management tool](lessons/keycloak.md)
 1. [Sprint duration is too short/long](lessons/sprint_duration.md)
+1. [Missing MS Teams files](lessons/missing_files_msteams.md)
+1. [Missing MS Teams files due to renamed channels](lessons/missing_files_msteams2.md)
